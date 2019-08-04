@@ -1,0 +1,7 @@
+name: Halo 5 Match Results
+node_identifier: halo5-match-results
+platforms:
+  - AWS Lambda
+data_sources:
+  - name: 343 Industry's Halo Public API
+    url: https://developer.haloapi.com/
